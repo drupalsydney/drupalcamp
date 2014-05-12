@@ -72,14 +72,14 @@ header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
   letter-spacing: -1px;
   font-size: 48px;
-  color: #3300CC;
+  color: #303030;
   line-height: 1.2;
 }
 
 header h2 {
   letter-spacing: -1px;
   font-size: 24px;
-  color: #aaa;
+  color: #3399FF;
   font-weight: normal;
   line-height: 1.3;
 }
